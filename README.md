@@ -9,7 +9,8 @@ Welcome to **StartUpX**, a modern and responsive landing page built for a fictio
 
 ## 📸 Preview
 
-![StartUpX Screenshot](https://via.placeholder.com/900x500?text=Startup+Landing+Page+Preview)
+![Landing Page Screenshot](./Startuppage_Screenshot.jpg)
+
 
 ---
 
